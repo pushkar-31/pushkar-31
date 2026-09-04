@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://github.com/pushkar-31"><img src="https://img.shields.io/badge/GitHub-pushkar--31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:pushkarshelke5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:pushkarshelke5@gmail.com"><img src="https://img.shields.io/badge/Gmail-pushkarshelke5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email pushkarshelke5@gmail.com"/></a>
 <img src="https://komarev.com/ghpvc/?username=pushkar-31&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
@@ -241,7 +241,7 @@ I'm looking for opportunities where I can solve real engineering problems, build
 <div align="center">
 
 <a href="https://github.com/pushkar-31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="mailto:pushkarshelke5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="mailto:pushkarshelke5@gmail.com"><img src="https://img.shields.io/badge/Gmail-pushkarshelke5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email pushkarshelke5@gmail.com"/></a>
 
 <br/><br/>
 
