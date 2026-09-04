@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Pushkar Shelke
 
-### Full Stack Developer • AI Enthusiast • Software Engineer
+### Full Stack Developer · AI Engineer · Software Developer
 
-I build **AI-powered products, full-stack applications, and interactive developer tools** with a focus on clean interfaces, practical engineering, and real-world problem solving.
+**I build practical software products where modern web development, AI, and interactive engineering meet.**
 
 <p>
   <a href="https://github.com/pushkar-31"><img src="https://img.shields.io/badge/GitHub-pushkar--31-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -15,64 +15,87 @@ I build **AI-powered products, full-stack applications, and interactive develope
 
 ---
 
+## ⚡ What I Build
+
+<table>
+<tr>
+<td width="25%" align="center"><b>🤖 AI Products</b><br/>RAG · LLMs · Document Intelligence</td>
+<td width="25%" align="center"><b>🌐 Full Stack</b><br/>React · Next.js · Node.js</td>
+<td width="25%" align="center"><b>🧩 Developer Tools</b><br/>DSA · Visualizations · Interactive UX</td>
+<td width="25%" align="center"><b>🚀 Product Engineering</b><br/>APIs · Databases · Deployment</td>
+</tr>
+</table>
+
+---
+
 ## 🧑‍💻 About Me
 
-- 💻 Full Stack Developer focused on modern web applications
-- 🤖 Building with **AI, Generative AI, RAG, and LLM-powered workflows**
-- 🧩 Interested in turning complex technical concepts into interactive experiences
-- 🚀 Enjoy taking ideas from **UI → API → database → deployment**
-- 🧠 Currently strengthening software engineering fundamentals and DSA
-- 🎯 Focused on building portfolio projects that solve practical problems
+- 💻 Full Stack Developer focused on building modern web applications
+- 🤖 Working with **Generative AI, RAG, embeddings, and LLM-powered workflows**
+- 🧠 Interested in making complex technical concepts easier to understand through interactive software
+- 🔧 Comfortable working across the **UI, API, database, and AI layers** of an application
+- 📚 Strengthening **Data Structures & Algorithms** alongside practical software engineering
+- 🎯 I enjoy taking an idea from a rough concept to a working product
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=javascript,typescript,python,java" alt="Languages" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java" alt="JavaScript TypeScript Python Java" />
+</p>
 
 ### Frontend
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="React Next.js HTML CSS Tailwind" />
+</p>
 
 ### Backend & Database
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js Express MongoDB MySQL" />
+</p>
 
-### AI & Integrations
+### AI, APIs & Tools
 
-**Google Gemini · LangChain · RAG · Chroma Cloud · Vector Search · REST APIs · JWT Authentication · Razorpay**
+**Gemini · LangChain · RAG · Chroma Cloud · Vector Search · REST APIs · JWT · Razorpay**
 
-### Tools & Deployment
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" alt="Developer tools" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" alt="Git GitHub VS Code Docker Vercel" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🤖 CareerBridge AI
 
-An AI-powered career assistant that connects a candidate's **resume with a target job description**.
+> **AI-powered career intelligence for students and job seekers.**
 
-**Highlights**
-- 📄 Resume & JD PDF ingestion
-- 🔎 Semantic retrieval using embeddings
-- 🧠 RAG-powered career chat
-- 🤝 Resume ↔ JD comparison
-- 📊 Resume analysis with ATS-oriented insights
-- 🔐 Session-isolated document retrieval
-- 🧹 Session cleanup for uploaded vectors
+CareerBridge AI connects a candidate's resume with a target job description and uses document retrieval + AI to provide contextual career assistance.
+
+**Built with**
+- 📄 Resume and JD PDF ingestion with document processing
+- 🔎 Gemini embeddings + semantic vector retrieval
+- 🧠 LangChain-powered RAG career chat
+- 🤝 Resume ↔ JD comparison and skill-gap insights
+- 📊 Resume analysis with ATS-oriented feedback
+- 🔐 Session-aware document retrieval
+- 🧹 Session vector cleanup
 
 **Stack:** Next.js · React · TypeScript · LangChain · Gemini · Chroma Cloud · pdf2json · Tailwind CSS
 
-</td>
-<td width="50%" valign="top">
+<p>
+<a href="https://github.com/pushkar-31/CareerBridge-AI"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="CareerBridge AI repository" /></a>
+</p>
+
+---
 
 ### 🧠 DSA Visualizer
 
-An interactive learning platform that makes data structures and algorithms easier to understand through **visual animations and step-by-step operations**.
+> **Interactive learning through algorithms, animations, and visual state changes.**
+
+A visual platform for understanding data structures and algorithmic concepts through step-by-step operations rather than only reading theory.
 
 **Includes**
 - 🔗 Singly, doubly & circular linked lists
@@ -82,53 +105,55 @@ An interactive learning platform that makes data structures and algorithms easie
 - 🧮 Infix → postfix conversion
 - 📬 Message queue simulation
 - 🗜️ Huffman coding
-- 🗺️ Dijkstra shortest path visualization
+- 🗺️ Dijkstra shortest-path visualization
 
 **Stack:** Next.js · TypeScript · React Flow · Framer Motion · Shadcn/ui · Tailwind CSS
 
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <a href="https://github.com/pushkar-31/CareerBridge-AI">🔗 CareerBridge AI Repository</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/pushkar-31/DSAVisualizer">🔗 DSA Visualizer Repository</a>
+<p>
+<a href="https://github.com/pushkar-31/DSAVisualizer"><img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="DSA Visualizer repository" /></a>
 </p>
 
 ---
 
 ## 📦 More Projects
 
-| Project | What it demonstrates |
+| Project | Focus |
 |---|---|
-| **DSA Insight** | Data-structure learning and visualization concepts |
-| **VirtualCourses** | Full-stack learning platform development |
-| **Inventory Management System** | CRUD workflows and application data management |
+| **DSA Insight** | Data-structure learning and visualization |
+| **VirtualCourses** | Full-stack learning platform |
+| **Inventory Management System** | CRUD and application data workflows |
 | **FashionHub React** | React-based frontend development |
-| **Redux Todo App** | State management with Redux |
+| **Redux Todo App** | Redux state management |
 
 ---
 
-## 🔥 What I'm Building
+## 🔥 Currently Building
 
 ```text
-CareerBridge AI      → AI career assistance + RAG + resume/JD intelligence
-DSA Visualizer       → Interactive algorithms + complexity-focused learning
-Full Stack Apps      → React / Next.js + Node.js applications
-AI Features          → Practical LLM integrations and document intelligence
-Software Engineering → DSA + scalable, maintainable application architecture
+┌─────────────────────────────────────────────────────────────┐
+│ CareerBridge AI  →  AI career assistance + RAG              │
+│                     resume/JD intelligence                  │
+│                                                             │
+│ DSA Visualizer   →  Interactive structures + algorithms     │
+│                     + complexity-focused learning           │
+│                                                             │
+│ Full Stack Apps  →  React / Next.js + Node.js products       │
+│                                                             │
+│ AI Features      →  Practical LLM + document intelligence   │
+│                                                             │
+│ Engineering      →  DSA + maintainable application design   │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🧠 Engineering Focus
+## 🧠 Engineering Mindset
 
-I like projects where the engineering is more than just a UI:
+I like building projects where the engineering goes beyond the interface:
 
-**Understand the problem → design the flow → build the interface → connect the backend → integrate AI when useful → test the edge cases → ship.**
+**Understand → Design → Build → Integrate → Test → Improve → Ship**
 
-My current projects reflect that approach, from **RAG pipelines and document processing** in CareerBridge AI to **algorithm visualization and interactive state changes** in DSA Visualizer.
+That means thinking about user flow, component structure, APIs, data, edge cases, AI reliability, and maintainability—not just making a page look good.
 
 ---
 
@@ -136,26 +161,32 @@ My current projects reflect that approach, from **RAG pipelines and document pro
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pushkar-31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pushkar-31&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkar-31&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=pushkar-31&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=pushkar-31&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
 ---
 
-## 📫 Connect
+## 🎯 What I'm Looking For
+
+I'm interested in opportunities where I can contribute to **software engineering, full-stack development, AI-powered applications, and developer-focused products** while continuing to grow through real-world engineering problems.
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/pushkar-31">GitHub</a> ·
-<a href="mailto:pushkarshelke5@gmail.com">Email</a>
+<a href="https://github.com/pushkar-31"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:pushkarshelke5@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <br/><br/>
 
-**Build • Learn • Ship 🚀**
+**Build · Learn · Ship 🚀**
 
 </div>
