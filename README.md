@@ -60,14 +60,14 @@
 
 <table>
 <tr>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/googlegemini" width="42" alt="Gemini"/><br/><b>Gemini</b></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/langchain" width="42" alt="LangChain"/><br/><b>LangChain</b></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/retrievalaugmentedgeneration" width="42" alt="RAG"/><br/><b>RAG</b></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/chroma" width="42" alt="Chroma"/><br/><b>Chroma</b></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/elastic" width="42" alt="Vector Search"/><br/><b>Vector Search</b></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/fastapi" width="42" alt="REST APIs"/><br/><b>REST APIs</b></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/jsonwebtokens" width="42" alt="JWT"/><br/><b>JWT</b></td>
-<td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/razorpay" width="42" alt="Razorpay"/><br/><b>Razorpay</b></td>
+<td align="center" width="12.5%"><br/><img src="https://cdn.simpleicons.org/googlegemini" width="52" height="52" alt="Gemini"/><br/><br/><b>Gemini</b><br/><br/></td>
+<td align="center" width="12.5%"><br/><img src="https://cdn.simpleicons.org/langchain" width="52" height="52" alt="LangChain"/><br/><br/><b>LangChain</b><br/><br/></td>
+<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=ai" width="52" height="52" alt="RAG"/><br/><br/><b>RAG</b><br/><br/></td>
+<td align="center" width="12.5%"><br/><img src="https://cdn.simpleicons.org/chroma" width="52" height="52" alt="Chroma Cloud"/><br/><br/><b>Chroma Cloud</b><br/><br/></td>
+<td align="center" width="12.5%"><br/><img src="https://cdn.simpleicons.org/elasticsearch" width="52" height="52" alt="Vector Search"/><br/><br/><b>Vector Search</b><br/><br/></td>
+<td align="center" width="12.5%"><br/><img src="https://cdn.simpleicons.org/fastapi" width="52" height="52" alt="REST APIs"/><br/><br/><b>REST APIs</b><br/><br/></td>
+<td align="center" width="12.5%"><br/><img src="https://cdn.simpleicons.org/jsonwebtokens" width="52" height="52" alt="JWT"/><br/><br/><b>JWT</b><br/><br/></td>
+<td align="center" width="12.5%"><br/><img src="https://cdn.simpleicons.org/razorpay" width="52" height="52" alt="Razorpay"/><br/><br/><b>Razorpay</b><br/><br/></td>
 </tr>
 </table>
 
