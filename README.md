@@ -57,8 +57,16 @@
 </p>
 
 ### AI, APIs & Tools
-
-**Gemini · LangChain · RAG · Chroma Cloud · Vector Search · REST APIs · JWT · Razorpay**
+<p>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge&logoColor=white" alt="Retrieval Augmented Generation" />
+  <img src="https://img.shields.io/badge/Chroma%20Cloud-5B21B6?style=for-the-badge&logo=chromadb&logoColor=white" alt="Chroma Cloud" />
+  <img src="https://img.shields.io/badge/Vector%20Search-2563EB?style=for-the-badge&logoColor=white" alt="Vector Search" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens" />
+  <img src="https://img.shields.io/badge/Razorpay-3395FF?style=for-the-badge&logo=razorpay&logoColor=white" alt="Razorpay" />
+</p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" alt="Git GitHub VS Code Docker Vercel" />
