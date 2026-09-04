@@ -58,22 +58,8 @@
 
 ### AI, APIs & Tools
 
-<table>
-<tr>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=gemini" width="52" height="52" alt="Gemini"/><br/><br/><b>Gemini</b><br/><br/></td>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=langchain" width="52" height="52" alt="LangChain"/><br/><br/><b>LangChain</b><br/><br/></td>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=ai" width="52" height="52" alt="RAG"/><br/><br/><b>RAG</b><br/><br/></td>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=chroma" width="52" height="52" alt="Chroma Cloud"/><br/><br/><b>Chroma<br/>Cloud</b><br/><br/></td>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=elasticsearch" width="52" height="52" alt="Vector Search"/><br/><br/><b>Vector<br/>Search</b><br/><br/></td>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=fastapi" width="52" height="52" alt="REST APIs"/><br/><br/><b>REST APIs</b><br/><br/></td>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=jwt" width="52" height="52" alt="JWT"/><br/><br/><b>JWT</b><br/><br/></td>
-<td align="center" width="12.5%"><br/><img src="https://skillicons.dev/icons?i=razorpay" width="52" height="52" alt="Razorpay"/><br/><br/><b>Razorpay</b><br/><br/></td>
-</tr>
-</table>
+**Gemini · LangChain · RAG · Chroma Cloud · Vector Search · REST APIs · JWT · Razorpay**
 
----
-
-### Developer Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel" alt="Git GitHub VS Code Docker Vercel" />
 </p>
